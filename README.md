@@ -16,7 +16,7 @@ I WANT to generate a webpage that displays my team's basic info
 SO THAT I have quick access to their emails and GitHub profiles
 ```
 
-## Acceptance Criteria
+## Requirements
 
 ```md
 GIVEN a command-line application that accepts user input
@@ -42,10 +42,10 @@ THEN I exit the application, and the HTML is generated
 
 The following image shows screenshot of the generated HTML’s appearance and functionality:
 
-![Screenshot]()
+![Screenshot](./assets/images/Screenshot-Team-Profile-Generator.png)
 
 
-## Getting Started
+## Installation
 My application will use [Jest](https://www.npmjs.com/package/jest) to running the unit tests and [Inquirer](https://www.npmjs.com/package/inquirer) for collecting input from the user. 
 
 The directory structure is as follows
