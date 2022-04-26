@@ -6,7 +6,7 @@ My task is to build a Node.js command-line application. It will take information
 
 I am providing (on the link below) a walk-through video since this application is not going to be deployed. This walk through video is going to show all the testing and make sure it passes the ttest and it's functionality to the final product.
 
-[Walk-through link]()
+[Walk-through link](https://www.youtube.com/watch?v=OuBmslkA-uA)
 
 ## User 
 
